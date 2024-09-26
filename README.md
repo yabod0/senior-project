@@ -2,7 +2,7 @@
 This project seeks to find the similarity score between content on the page and title using cosine similarity from a word2vec model.
 # Table of Contents
 # Introduction 1
-&nbsp;Ranking
+&nbsp;Ranking\
 &nbsp;Search Engine Optimization
  &nbsp;Bias
  &nbsp;The Need to Serve the Searcher
